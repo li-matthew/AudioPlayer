@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6404A5AE2295EFF5004CB182 /* lil tracy & lil uzi vert - like a farmer _remix_ (prod gren8).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6404A5AC2295EFF5004CB182 /* lil tracy & lil uzi vert - like a farmer _remix_ (prod gren8).mp3 */; };
+		6404A5AF2295EFF5004CB182 /* Unforgettable.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6404A5AD2295EFF5004CB182 /* Unforgettable.mp3 */; };
 		64E617732295BB9A002F041B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64E617722295BB9A002F041B /* AppDelegate.swift */; };
 		64E617752295BB9A002F041B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64E617742295BB9A002F041B /* ViewController.swift */; };
 		64E617782295BB9A002F041B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 64E617762295BB9A002F041B /* Main.storyboard */; };
@@ -34,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6404A5AC2295EFF5004CB182 /* lil tracy & lil uzi vert - like a farmer _remix_ (prod gren8).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "lil tracy & lil uzi vert - like a farmer _remix_ (prod gren8).mp3"; path = "eq/lil tracy & lil uzi vert - like a farmer _remix_ (prod gren8).mp3"; sourceTree = "<group>"; };
+		6404A5AD2295EFF5004CB182 /* Unforgettable.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Unforgettable.mp3; path = eq/Unforgettable.mp3; sourceTree = "<group>"; };
 		64E6176F2295BB9A002F041B /* eq.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = eq.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		64E617722295BB9A002F041B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		64E617742295BB9A002F041B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -81,6 +85,8 @@
 				64E617862295BB9B002F041B /* eqTests */,
 				64E617912295BB9B002F041B /* eqUITests */,
 				64E617702295BB9A002F041B /* Products */,
+				6404A5AC2295EFF5004CB182 /* lil tracy & lil uzi vert - like a farmer _remix_ (prod gren8).mp3 */,
+				6404A5AD2295EFF5004CB182 /* Unforgettable.mp3 */,
 			);
 			sourceTree = "<group>";
 		};
@@ -229,6 +235,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6404A5AF2295EFF5004CB182 /* Unforgettable.mp3 in Resources */,
+				6404A5AE2295EFF5004CB182 /* lil tracy & lil uzi vert - like a farmer _remix_ (prod gren8).mp3 in Resources */,
 				64E6177D2295BB9B002F041B /* LaunchScreen.storyboard in Resources */,
 				64E6177A2295BB9B002F041B /* Assets.xcassets in Resources */,
 				64E617782295BB9A002F041B /* Main.storyboard in Resources */,
@@ -435,6 +443,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6TY4S255Y7;
 				INFOPLIST_FILE = eq/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -453,6 +462,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6TY4S255Y7;
 				INFOPLIST_FILE = eq/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
